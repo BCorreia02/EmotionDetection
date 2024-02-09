@@ -1,0 +1,13 @@
+sadness
+hate
+enthusiasm
+love
+boredom
+relief
+neutral
+happiness
+surprise
+fun
+empty
+worry
+anger
